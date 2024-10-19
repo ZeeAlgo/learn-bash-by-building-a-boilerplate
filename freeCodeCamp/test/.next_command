@@ -230,3 +230,4 @@ ls --color=auto
 rm roboto-bold.woff
 ls --color=auto
 touch client/assets/fonts/roboto-bold.woff
+touch client/assets/fonts/roboto-light.woff
