@@ -102,3 +102,4 @@ cd ..
 cd /workspace/project
 cd website
 ls --color=auto
+echo hello website
