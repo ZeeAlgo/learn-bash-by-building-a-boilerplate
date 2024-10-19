@@ -199,3 +199,4 @@ ls --color=auto
 cd ../../..
 cd /workspace/project/website/images
 cd ..
+ls --color=auto
