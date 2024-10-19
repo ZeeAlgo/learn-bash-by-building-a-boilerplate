@@ -154,3 +154,4 @@ mkdir font
 rm font
 ls --color=auto
 mkdir fonts
+ls --color=auto
