@@ -225,3 +225,8 @@ ls --color=auto
 rmdir icons
 ls --color=auto
 mkdir client/assets/fonts
+touch roboto-bold.woff
+ls --color=auto
+rm roboto-bold.woff
+ls --color=auto
+touch client/assets/fonts/roboto-bold.woff
