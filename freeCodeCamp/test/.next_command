@@ -131,3 +131,4 @@ cp background.jpg images
 cd
 cd /workspace/project/website
 cd images
+ls --color=auto
