@@ -200,3 +200,4 @@ cd ../../..
 cd /workspace/project/website/images
 cd ..
 ls --color=auto
+find -name images
