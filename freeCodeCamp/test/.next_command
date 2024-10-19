@@ -220,3 +220,8 @@ mv freecodeCamp.svg client/assets/icons
 ls --color=auto
 mv freeCodeCamp.svg client/assets/icons
 find
+mkdir icons
+ls --color=auto
+rmdir icons
+ls --color=auto
+mkdir client/assets/fonts
