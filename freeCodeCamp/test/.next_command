@@ -211,3 +211,6 @@ rm images/background.jpg
 rmdir images
 ls --color=auto
 mkdir client/assets/icons
+move CodeAlly.svg cleint/asses/icons
+ls --color=auto
+mv CodeAlly.svg client/assets/icons
