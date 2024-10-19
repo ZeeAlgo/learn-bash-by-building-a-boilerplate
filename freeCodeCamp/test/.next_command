@@ -214,3 +214,4 @@ mkdir client/assets/icons
 move CodeAlly.svg cleint/asses/icons
 ls --color=auto
 mv CodeAlly.svg client/assets/icons
+find
